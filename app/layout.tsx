@@ -13,8 +13,8 @@ const fontSans = FontSans({
 })
 
 export const metadata: Metadata = {
-  title: 'CollabDocs',
-  description: 'your go-to collaborative editor'
+  title: 'CollabDocs: Real-time Collaborative Document Editing',
+  description: 'CollabDocs is a powerful online tool that enables real-time collaboration on documents. Easily share, edit, and work together with your team, no matter where you are.'
 }
 
 export default function RootLayout({ children }: {children: React.ReactNode}) {
