@@ -13,6 +13,7 @@ const fontSans = FontSans({
 })
 
 export const metadata: Metadata = {
+  metadataBase: new URL('https://collabdocs-devsire.vercel.app'),
   title: 'CollabDocs: Real-time Collaborative Document Editing',
   description: 'CollabDocs is a powerful online tool that enables real-time collaboration on documents. Easily share, edit, and work together with your team, no matter where you are.'
 }
